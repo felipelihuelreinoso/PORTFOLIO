@@ -1,6 +1,6 @@
 # Portfolio UX/UI · Tu Nombre
 
-- **Sitio:** https://TU-USUARIO.github.io/portfolio/
+- **Sitio:** https://github.com/felipelihuelreinoso/PORTFOLIO
 - **Figma:** (pegar link con permiso de visualización)
 - **Stack:** HTML5 + CSS3 (variables `:root`, Grid/Flexbox) + JS vanilla (menú y modal). Sin frameworks.
 - **Fuentes y recursos:** Google Fonts (Bricolage Grotesque, Source Sans 3). Imágenes: SVG propios.
